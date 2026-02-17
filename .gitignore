@@ -1,0 +1,12 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# Docker persistent data
+pgdata/
+
+# Model artifacts
+*.pkl
+*.joblib

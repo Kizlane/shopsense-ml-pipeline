@@ -1,0 +1,201 @@
+category,product_name,price,sku,item_description,avg_rating,weight_kg,stock_status,created_at
+accessories,basic hair ties 50-pack,9.99,ACC-0001,Pack of 50 stretchy no-snag hair ties in assorted neutral colors,4.1,0.08,in_stock,2023-08-03
+accessories,canvas tote bag,14.5,ACC-0002,Sturdy 100% cotton canvas tote with reinforced handles and inner pocket,4.6,0.35,in_stock,2023-11-08
+accessories,woven faux leather belt,18.99,ACC-0003,Braided faux leather belt with brushed nickel buckle and adjustable fit,4.2,0.15,in_stock,2023-09-22
+accessories,minimalist slim wallet,22.5,ACC-0004,Slim bifold wallet with RFID blocking and 6 card slots,4.8,0.1,in_stock,2023-12-12
+accessories,blue light blocking glasses,24.95,ACC-0005,Lightweight blue light filtering glasses with spring hinges for all-day comfort,4.8,0.04,in_stock,2023-06-14
+accessories,oversized knit winter scarf,29.99,ACC-0006,Extra-long chunky knit winter scarf in soft acrylic blend,4.1,0.25,in_stock,2023-10-27
+accessories,polarized aviator sunglasses,34.5,ACC-0007,UV400 polarized aviator sunglasses with metal frame and nose pads,4.2,0.03,in_stock,2023-08-08
+accessories,sterling silver stud earrings,42.0,ACC-0008,Hypoallergenic 925 sterling silver stud earrings with butterfly backs,4.6,0.02,in_stock,2023-10-19
+accessories,vintage style fedora hat,49.99,ACC-0009,Classic wide-brim fedora in wool felt with grosgrain ribbon band,4.2,0.15,in_stock,2023-07-04
+accessories,leather crossbody bag,59.95,ACC-0010,Full-grain leather crossbody bag with adjustable strap and zip closure,4.1,0.65,in_stock,2023-08-13
+accessories,classic analog wrist watch,75.0,ACC-0011,Japanese quartz movement analog watch with genuine leather band,4.8,0.08,in_stock,2023-07-27
+accessories,water resistant sports watch,89.99,ACC-0012,50m water resistant digital sports watch with stopwatch and backlight,4.5,0.06,in_stock,2023-11-26
+accessories,premium leather briefcase,125.0,ACC-0013,Full-grain leather briefcase with padded laptop compartment and brass hardware,4.4,1.2,in_stock,2023-12-02
+beauty,organic lip balm duo,6.49,BEA-0001,Duo pack of organic beeswax lip balms in vanilla and honey flavors,4.7,0.05,in_stock,2023-07-02
+beauty,hydrating sheet mask set,7.99,BEA-0002,Set of 10 individually wrapped hydrating sheet masks with hyaluronic acid,4.7,0.18,in_stock,2023-06-08
+beauty,travel size hand cream,9.5,BEA-0003,Travel-size shea butter hand cream in a 50ml squeeze tube,4.2,0.07,in_stock,2023-11-09
+beauty,gentle foaming facial cleanser,11.99,BEA-0004,pH-balanced foaming cleanser for sensitive skin with aloe vera extract,4.1,0.22,in_stock,2023-11-03
+beauty,exfoliating sugar body scrub,12.5,BEA-0005,Brown sugar and coconut oil body scrub for gentle exfoliation,4.4,0.35,in_stock,2023-12-22
+beauty,volumizing black mascara,14.0,BEA-0006,Smudge-proof volumizing mascara with curved bristle wand,4.4,0.03,in_stock,2023-08-01
+beauty,matte finish setting spray,15.99,BEA-0007,Fine mist setting spray for long-lasting matte makeup hold,4.4,0.12,in_stock,2023-11-29
+beauty,daily moisturizing lotion,17.5,BEA-0008,Lightweight daily moisturizer with SPF 15 for all skin types,4.7,0.25,in_stock,2023-06-21
+beauty,tinted lip oil,18.95,BEA-0009,Sheer tinted lip oil with jojoba and vitamin E in 6 shades,4.6,0.04,in_stock,2023-08-19
+beauty,rosewater facial toner,21.0,BEA-0010,Alcohol-free rosewater facial toner with witch hazel for pore refining,4.9,0.28,in_stock,2023-10-20
+beauty,vitamin c face serum,22.99,BEA-0011,15% vitamin C brightening serum with ferulic acid in glass dropper bottle,4.1,0.08,in_stock,2023-06-04
+beauty,clarifying clay mask,24.5,BEA-0012,Deep-cleansing kaolin clay mask with tea tree oil for oily skin,4.4,0.15,in_stock,2023-10-20
+beauty,argan oil hair serum,26.0,BEA-0013,Cold-pressed argan oil hair serum for frizz control and shine,4.3,0.06,in_stock,2023-09-13
+beauty,waterproof liquid eyeliner,28.5,BEA-0014,Precision tip waterproof liquid eyeliner with 24-hour wear formula,4.8,0.02,in_stock,2023-06-24
+beauty,sheer coverage bb cream,31.99,BEA-0015,Lightweight BB cream with sheer buildable coverage and SPF 30,4.2,0.04,in_stock,2023-07-28
+beauty,hydrating overnight lip mask,34.0,BEA-0016,Overnight lip treatment mask with peptides and shea butter,4.2,0.05,in_stock,2023-06-30
+beauty,heat protectant hair spray,36.5,BEA-0017,Thermal heat protectant spray for blow drying and styling up to 230C,4.4,0.18,low_stock,2023-09-27
+beauty,brightening eye cream,39.99,BEA-0018,Caffeine and peptide eye cream to reduce dark circles and puffiness,4.4,0.04,in_stock,2023-07-01
+beauty,soft bristle makeup brush set,45.0,BEA-0019,12-piece synthetic bristle makeup brush set with faux leather roll case,4.3,0.32,in_stock,2023-11-13
+beauty,deeply nourishing hair mask,49.95,BEA-0020,Intensive keratin and coconut hair mask for damaged and dry hair,4.2,0.3,in_stock,2023-07-10
+beauty,broad spectrum spf 50 sunscreen,55.0,BEA-0021,Broad spectrum SPF 50 mineral sunscreen with zinc oxide and no white cast,4.8,0.2,in_stock,2023-10-06
+beauty,anti-aging retinol night cream,62.5,BEA-0022,Encapsulated retinol night cream with niacinamide for fine lines,4.4,0.06,in_stock,2023-12-01
+beauty,professional ceramic hair straightener,75.0,BEA-0023,Floating plate ceramic hair straightener with digital temperature control,4.8,0.45,in_stock,2023-08-14
+beauty,luxury floral eau de parfum,82.99,BEA-0024,Long-lasting floral eau de parfum with notes of jasmine and sandalwood,4.5,0.35,in_stock,2023-10-09
+beauty,premium sonic facial cleansing brush,88.5,BEA-0025,Rechargeable sonic facial cleansing brush with 3 speed settings,4.0,0.22,in_stock,2023-12-30
+books,pocket dictionary,5.99,BOO-0001,Compact pocket-sized English dictionary with over 40000 entries,4.9,0.2,low_stock,2023-08-09
+books,classic paperback novel,8.5,BOO-0002,Award-winning contemporary fiction novel in paperback format,4.8,0.25,in_stock,2023-07-24
+books,childrens illustrated bedtime story,9.99,BOO-0003,Beautifully illustrated 32-page bedtime story for ages 3 to 7,4.9,0.3,in_stock,2023-10-02
+books,introductory spanish workbook,11.49,BOO-0004,Beginner Spanish workbook with exercises and audio download access,4.8,0.4,in_stock,2023-09-29
+books,contemporary romance paperback,13.95,BOO-0005,Bestselling contemporary romance novel with book club discussion guide,4.8,0.22,in_stock,2023-08-02
+books,science fiction mass market paperback,14.99,BOO-0006,Classic sci-fi adventure in mass market paperback format,4.1,0.18,in_stock,2023-09-25
+books,daily mindfulness journal,16.5,BOO-0007,Guided daily mindfulness and gratitude journal with 365 writing prompts,4.4,0.35,in_stock,2023-08-10
+books,modern poetry collection,18.0,BOO-0008,Curated collection of contemporary poetry from emerging voices,4.2,0.28,in_stock,2023-07-08
+books,self-help habit building guide,19.99,BOO-0009,Evidence-based guide to building lasting habits and breaking bad ones,4.4,0.3,in_stock,2023-09-07
+books,young adult fantasy hardcover,22.5,BOO-0010,Epic young adult fantasy hardcover first in a trilogy series,4.1,0.45,in_stock,2023-07-19
+books,vegetarian weeknight cookbook,24.95,BOO-0011,Seasonal vegetarian cookbook with over 200 quick weeknight recipes,4.3,0.65,in_stock,2023-11-01
+books,historical biography hardcover,28.0,BOO-0012,Meticulously researched historical biography in hardcover format,4.9,0.55,in_stock,2023-10-09
+books,personal finance and investing guide,32.99,BOO-0013,Comprehensive personal finance guide covering investing and retirement,4.2,0.48,in_stock,2023-12-09
+books,comprehensive world atlas,39.5,BOO-0014,Large format illustrated world atlas with detailed country maps,4.7,1.2,in_stock,2023-07-05
+books,hardback coffee table photography book,48.0,BOO-0015,Oversized hardback photography book showcasing landscapes worldwide,4.4,1.5,in_stock,2023-06-18
+clothing,basic cotton crewneck t-shirt,10.5,CLO-0001,100% cotton crewneck t-shirt in a relaxed unisex fit,4.4,0.18,in_stock,2023-07-06
+clothing,mens athletic ankle socks 6-pack,11.99,CLO-0002,6-pack cushioned athletic ankle socks with moisture-wicking fabric,4.9,0.15,in_stock,2023-12-15
+clothing,womens seamless hipster panties 3-pack,12.95,CLO-0003,3-pack seamless hipster panties in nylon spandex blend,4.9,0.08,in_stock,2023-12-20
+clothing,unisex ribbed knit beanie,14.0,CLO-0004,Soft ribbed knit beanie in acrylic blend with cuffed brim,4.5,0.1,in_stock,2023-09-15
+clothing,solid color v-neck tee,14.99,CLO-0005,Classic v-neck tee in lightweight cotton jersey,4.6,0.16,in_stock,2023-08-27
+clothing,classic fit tank top,15.5,CLO-0006,Relaxed fit tank top in breathable cotton for layering or solo wear,4.1,0.12,in_stock,2023-08-04
+clothing,lightweight summer shorts,16.99,CLO-0007,Lightweight drawstring summer shorts with side pockets,4.3,0.2,in_stock,2023-08-08
+clothing,casual canvas slip-on shoes,17.5,CLO-0008,Low-profile canvas slip-on shoes with cushioned insole,4.9,0.55,in_stock,2023-12-28
+clothing,womens high-waisted leggings,18.0,CLO-0009,High-waisted compression leggings with hidden pocket and four-way stretch,4.5,0.18,in_stock,2023-06-01
+clothing,mens slim fit polo shirt,18.99,CLO-0010,Two-button slim fit polo shirt in pique cotton,4.5,0.22,in_stock,2023-08-12
+clothing,plain zip-up fleece hoodie,19.5,CLO-0011,Full-zip fleece hoodie with kangaroo pockets and ribbed cuffs,4.7,0.45,in_stock,2023-12-03
+clothing,short sleeve button-down shirt,21.0,CLO-0012,Short sleeve button-down shirt in lightweight cotton poplin,4.1,0.2,in_stock,2023-08-16
+clothing,breathable running shorts,22.5,CLO-0013,Lightweight running shorts with built-in mesh liner and zip pocket,4.5,0.14,in_stock,2023-10-29
+clothing,womens ribbed long sleeve top,23.99,CLO-0014,Ribbed long sleeve fitted top in stretch cotton blend,4.5,0.2,in_stock,2023-10-27
+clothing,relaxed fit lounge pants,24.5,CLO-0015,Relaxed fit french terry lounge pants with elastic waistband,4.8,0.35,in_stock,2023-11-16
+clothing,floral print summer skirt,25.0,CLO-0016,Flowy floral print midi skirt with elasticated waist,4.1,0.22,in_stock,2023-10-04
+clothing,classic denim baseball cap,26.95,CLO-0017,Classic six-panel denim baseball cap with adjustable strap,4.9,0.12,in_stock,2023-06-20
+clothing,knit oversized sweater,27.5,CLO-0018,Oversized chunky knit sweater in soft acrylic yarn,4.1,0.4,in_stock,2023-09-23
+clothing,mens straight leg jeans,28.99,CLO-0019,Straight leg jeans in mid-wash denim with five-pocket styling,4.2,0.75,in_stock,2023-10-16
+clothing,padded sports bra,29.5,CLO-0020,Medium-impact padded sports bra with racerback design,4.5,0.15,in_stock,2023-10-02
+clothing,long sleeve flannel shirt,31.0,CLO-0021,Brushed cotton flannel shirt in classic plaid pattern,4.6,0.3,in_stock,2023-08-28
+clothing,quick-dry workout tee,32.5,CLO-0022,Moisture-wicking quick-dry workout tee with flatlock seams,4.2,0.16,in_stock,2023-08-25
+clothing,womens a-line midi dress,34.0,CLO-0023,Flattering A-line midi dress with cap sleeves and side zip,4.1,0.35,in_stock,2023-10-20
+clothing,lightweight windbreaker jacket,35.99,CLO-0024,Packable lightweight windbreaker with hood and zip pockets,4.8,0.28,in_stock,2023-12-13
+clothing,thermal winter base layer top,37.5,CLO-0025,Thermal base layer top with brushed interior for cold weather,4.2,0.25,low_stock,2023-12-09
+clothing,straight fit khaki chinos,39.0,CLO-0026,Straight fit chinos in wrinkle-resistant cotton twill,4.5,0.45,in_stock,2023-09-05
+clothing,cozy sherpa pullover,41.5,CLO-0027,Cozy sherpa fleece pullover with quarter zip and stand collar,4.6,0.55,in_stock,2023-09-25
+clothing,water-resistant hiking pants,42.99,CLO-0028,Water-resistant hiking pants with articulated knees and belt loops,4.4,0.5,in_stock,2023-08-22
+clothing,classic canvas sneakers,44.0,CLO-0029,Low-top canvas sneakers with vulcanized rubber sole,4.5,0.65,in_stock,2023-06-25
+clothing,tailored fit dress shirt,45.5,CLO-0030,Tailored fit dress shirt in wrinkle-free cotton with spread collar,4.5,0.25,in_stock,2023-11-26
+clothing,open front knit cardigan,48.0,CLO-0031,Open-front longline knit cardigan in soft cotton blend,4.8,0.35,in_stock,2023-08-01
+clothing,mens cargo shorts,49.99,CLO-0032,Relaxed fit cargo shorts with multiple utility pockets,4.2,0.3,in_stock,2023-10-25
+clothing,womens wide leg linen pants,52.5,CLO-0033,Wide leg linen pants with drawstring waist for warm weather,4.6,0.28,in_stock,2023-09-07
+clothing,heavy cotton pullover hoodie,55.0,CLO-0034,Heavyweight 400gsm cotton pullover hoodie with kangaroo pocket,4.2,0.6,in_stock,2023-07-30
+clothing,faux leather mini skirt,58.99,CLO-0035,High-waisted faux leather mini skirt with back zip closure,4.4,0.22,in_stock,2023-12-16
+clothing,mock neck ribbed sweater,62.0,CLO-0036,Mock neck ribbed sweater in medium-weight knit,4.6,0.38,in_stock,2023-09-14
+clothing,denim trucker jacket,65.5,CLO-0037,Classic denim trucker jacket with button front and chest pockets,4.3,0.85,in_stock,2023-06-12
+clothing,pleated formal trousers,68.99,CLO-0038,Single-pleat formal trousers in wool blend with pressed crease,4.3,0.55,in_stock,2023-08-21
+clothing,wrap style midi dress,72.0,CLO-0039,Wrap-style midi dress in jersey fabric with tie waist,4.7,0.3,out_of_stock,2023-12-08
+clothing,mens tailored suit vest,75.5,CLO-0040,Five-button tailored suit vest in polyester-viscose blend,4.1,0.4,in_stock,2023-09-30
+clothing,chunky knit winter cardigan,79.99,CLO-0041,Chunky cable knit winter cardigan with toggle button closure,4.4,0.65,in_stock,2023-12-30
+clothing,womens block heel ankle boots,85.0,CLO-0042,Block heel ankle boots in faux suede with side zip,4.9,0.9,in_stock,2023-12-25
+clothing,mens lightweight bomber jacket,89.5,CLO-0043,Lightweight bomber jacket with ribbed cuffs and zip front,4.9,0.5,in_stock,2023-09-06
+clothing,water-repellent trench coat,95.0,CLO-0044,Water-repellent trench coat with belt and storm flap,4.1,1.1,in_stock,2023-09-07
+clothing,premium merino wool sweater,110.0,CLO-0045,Fine gauge merino wool sweater in crew neck style,4.2,0.35,in_stock,2023-12-24
+clothing,tailored slim fit suit blazer,125.0,CLO-0046,Tailored slim fit two-button suit blazer with notch lapels,4.2,0.75,out_of_stock,2023-12-20
+clothing,genuine leather motorcycle jacket,145.0,CLO-0047,Genuine cowhide leather motorcycle jacket with asymmetric zip,4.8,2.2,in_stock,2023-12-28
+clothing,heavy winter parka coat,159.99,CLO-0048,Insulated heavy winter parka with faux fur trimmed hood,4.8,1.8,in_stock,2023-12-23
+clothing,elegant evening maxi dress,175.0,CLO-0049,Elegant floor-length evening dress in flowing chiffon fabric,4.8,0.45,in_stock,2023-07-09
+clothing,mens waterproof snow pants,189.99,CLO-0050,Fully seam-sealed waterproof snow pants with boot gaiters,4.3,0.85,in_stock,2023-10-05
+electronics,braided usb-c charging cable 6ft,10.99,ELE-0001,Braided nylon USB-C cable 6ft with reinforced connectors for fast charging,4.1,0.05,in_stock,2023-06-10
+electronics,microfiber screen cleaning kit,12.5,ELE-0002,Microfiber cloth and spray cleaning kit for screens and lenses,4.8,0.12,in_stock,2023-07-03
+electronics,dual port wall charger adapter,14.99,ELE-0003,Dual port 20W USB-A and USB-C wall charger with foldable prongs,4.6,0.08,in_stock,2023-10-07
+electronics,adjustable aluminum phone stand,17.5,ELE-0004,Adjustable aluminum phone stand with anti-slip base for desk use,4.6,0.25,in_stock,2023-10-30
+electronics,silicone phone case with bumper,19.99,ELE-0005,Shock-absorbing silicone phone case with raised bumper edges,4.9,0.04,in_stock,2023-08-24
+electronics,nylon braided hdmi cable,22.95,ELE-0006,4K-rated 6ft nylon braided HDMI cable with gold-plated connectors,4.6,0.1,in_stock,2023-06-26
+electronics,wireless optical mouse,24.5,ELE-0007,Wireless optical mouse with adjustable DPI and USB nano receiver,4.0,0.09,in_stock,2023-09-21
+electronics,compact portable power bank,27.99,ELE-0008,10000mAh portable power bank with dual USB output and LED indicator,4.7,0.23,in_stock,2023-06-26
+electronics,bluetooth tracking tag,29.5,ELE-0009,Bluetooth item tracker tag with replaceable battery and 60m range,4.3,0.01,in_stock,2023-10-13
+electronics,usb desk fan with led,34.99,ELE-0010,Quiet USB-powered desk fan with built-in LED reading light,4.6,0.35,in_stock,2023-09-25
+electronics,multi-angle tablet stand,39.0,ELE-0011,Multi-angle adjustable tablet and phone stand in brushed aluminum,4.8,0.3,in_stock,2023-06-04
+electronics,true wireless earbuds,45.5,ELE-0012,True wireless earbuds with touch controls and 6-hour battery life,4.1,0.06,in_stock,2023-12-02
+electronics,fast charging wireless pad,49.99,ELE-0013,Qi-certified 15W fast wireless charging pad with LED indicator,4.1,0.12,in_stock,2023-07-07
+electronics,ergonomic vertical mouse,55.0,ELE-0014,Ergonomic vertical mouse designed to reduce wrist strain with 3 DPI settings,4.1,0.14,in_stock,2023-09-13
+electronics,smart led light strip,64.95,ELE-0015,16ft smart LED strip lights with app control and 16 million colors,4.5,0.25,in_stock,2023-11-15
+electronics,noise isolating wired headphones,75.0,ELE-0016,Over-ear wired headphones with 40mm drivers and passive noise isolation,4.2,0.28,in_stock,2023-07-10
+electronics,portable waterproof bluetooth speaker,89.99,ELE-0017,IPX7 waterproof portable bluetooth speaker with 12-hour battery life,4.5,0.54,in_stock,2023-06-20
+electronics,mechanical gaming keyboard,95.5,ELE-0018,RGB mechanical gaming keyboard with hot-swappable blue switches,4.6,0.95,in_stock,2023-09-29
+electronics,compact external hard drive 1tb,110.0,ELE-0019,Compact 1TB external hard drive with USB 3.0 and bus-powered design,4.2,0.18,in_stock,2023-12-18
+electronics,hd 1080p webcam with microphone,129.99,ELE-0020,Full HD 1080p webcam with built-in noise-cancelling microphone,4.6,0.15,in_stock,2023-08-07
+electronics,dual band wi-fi router,145.0,ELE-0021,Dual band AC1200 wifi router with 4 external antennas and MU-MIMO,4.2,0.45,in_stock,2023-08-26
+electronics,active noise cancelling over-ear headphones,179.99,ELE-0022,Active noise cancelling over-ear headphones with 30-hour battery,4.4,0.3,low_stock,2023-11-07
+electronics,smartphone gimbal stabilizer,210.0,ELE-0023,3-axis smartphone gimbal stabilizer with face tracking and time-lapse mode,4.8,0.4,in_stock,2023-11-25
+electronics,smart home security camera,249.0,ELE-0024,1080p smart home security camera with night vision and two-way audio,4.8,0.35,in_stock,2023-09-10
+electronics,27-inch ips computer monitor,299.99,ELE-0025,27-inch IPS monitor with 75Hz refresh rate and VESA mount compatible,3.6,5.5,out_of_stock,2023-11-14
+electronics,curved ultrawide gaming monitor,349.5,ELE-0026,34-inch curved ultrawide gaming monitor with 144Hz and 1ms response,4.1,8.2,low_stock,2023-06-21
+electronics,smart robotic vacuum cleaner,420.0,ELE-0027,Smart robotic vacuum with LIDAR mapping and scheduled cleaning,3.9,3.5,in_stock,2023-08-24
+electronics,10-inch lightweight digital tablet,550.0,ELE-0028,10-inch tablet with 64GB storage and 10-hour battery life,3.5,0.48,in_stock,2023-11-20
+electronics,compact mirrorless digital camera,749.99,ELE-0029,24MP compact mirrorless camera with 4K video and electronic viewfinder,4.4,0.65,in_stock,2023-10-15
+electronics,15-inch thin and light laptop,850.0,ELE-0030,15-inch laptop with 16GB RAM and 512GB SSD for everyday productivity,4.1,1.95,in_stock,2023-09-06
+food,organic dark chocolate bar,4.5,FOO-0001,Single origin 72% dark chocolate bar made with organic cacao,4.2,0.1,in_stock,2023-08-21
+food,spicy sriracha roasted peas,5.99,FOO-0002,Crunchy roasted green peas seasoned with spicy sriracha flavor,4.7,0.15,in_stock,2023-11-08
+food,artisanal sea salt caramels,7.5,FOO-0003,Handmade sea salt caramels in a 12-piece gift box,4.5,0.25,in_stock,2023-12-01
+food,raw unfiltered wildflower honey,8.95,FOO-0004,Raw unfiltered wildflower honey in a 500g glass jar,4.4,0.55,in_stock,2023-12-12
+food,organic fair trade matcha powder,10.5,FOO-0005,Ceremonial grade organic matcha powder sourced from Kyoto Japan,4.0,0.08,in_stock,2023-10-03
+food,organic mixed berry preserves,12.99,FOO-0006,Small-batch mixed berry preserves made with organic fruit and no added pectin,4.1,0.45,in_stock,2023-10-17
+food,gourmet garlic infused olive oil,14.5,FOO-0007,Cold-pressed garlic infused extra virgin olive oil in 250ml bottle,4.8,0.35,in_stock,2023-06-10
+food,single origin ethiopian coffee beans,16.0,FOO-0008,Single origin Ethiopian Yirgacheffe whole bean coffee in 500g bag,4.8,0.52,in_stock,2023-11-06
+food,imported aged balsamic vinegar,19.99,FOO-0009,Aged balsamic vinegar of Modena in 250ml glass bottle,4.5,0.38,in_stock,2023-06-18
+food,premium roasted mixed nuts gift tin,24.5,FOO-0010,Premium roasted mixed nuts gift tin with almonds cashews and pecans,4.8,0.85,in_stock,2023-10-31
+food,black truffle flavored oil,29.99,FOO-0011,Italian black truffle flavored olive oil in 100ml glass bottle,4.5,0.18,in_stock,2023-11-09
+food,gourmet cured meat and cheese hamper,36.5,FOO-0012,Curated hamper with artisanal cured meats and aged cheeses,4.1,2.5,in_stock,2023-11-23
+home,silicone heat resistant oven mitts,8.5,HOM-0001,Heat-resistant silicone oven mitts rated to 250C with non-slip grip,4.1,0.25,in_stock,2023-08-13
+home,stainless steel measuring spoons,9.99,HOM-0002,Set of 6 stainless steel measuring spoons with engraved markings,4.3,0.15,in_stock,2023-07-29
+home,set of 4 absorbent dish towels,11.5,HOM-0003,Set of 4 absorbent cotton dish towels in assorted kitchen patterns,4.8,0.3,in_stock,2023-12-09
+home,non-slip velvet clothes hangers 20-pack,12.95,HOM-0004,Pack of 20 slim non-slip velvet clothes hangers with swivel hooks,4.7,1.2,in_stock,2023-06-24
+home,decorative woven storage basket,14.0,HOM-0005,Hand-woven seagrass storage basket with cotton rope handles,4.8,0.45,in_stock,2023-09-20
+home,glass food storage containers with lids,15.5,HOM-0006,Set of 5 borosilicate glass food containers with snap-lock lids,4.8,1.8,in_stock,2023-06-26
+home,aromatic soy wax candle,17.99,HOM-0007,Hand-poured soy wax candle with cotton wick in 8oz ceramic jar,4.2,0.35,in_stock,2023-12-12
+home,bamboo drawer organizer,19.5,HOM-0008,Expandable bamboo drawer organizer with 8 adjustable compartments,4.2,0.65,in_stock,2023-11-10
+home,plush memory foam bath mat,22.0,HOM-0009,Plush memory foam bath mat with non-slip latex backing,4.1,0.8,in_stock,2023-11-28
+home,geometric print throw pillow cover,24.99,HOM-0010,Geometric print cotton-linen throw pillow cover with hidden zip,4.7,0.25,in_stock,2023-06-26
+home,brushed microfiber bed sheet set,27.5,HOM-0011,Brushed microfiber 4-piece bed sheet set in queen size,4.8,1.2,in_stock,2023-09-22
+home,stainless steel french press coffee maker,29.95,HOM-0012,Double-wall stainless steel French press coffee maker holds 1 liter,4.4,0.85,low_stock,2023-07-13
+home,set of 2 blackout window curtains,32.5,HOM-0013,Set of 2 thermal insulated blackout curtains with rod pocket,4.6,1.5,in_stock,2023-11-25
+home,ceramic non-stick frying pan,35.0,HOM-0014,Ceramic non-stick frying pan with stay-cool silicone handle,4.1,0.95,in_stock,2023-08-16
+home,decorative tabletop succulent planter,38.99,HOM-0015,Decorative concrete tabletop planter with drainage hole for succulents,4.8,1.2,in_stock,2023-06-08
+home,heavy duty laundry hamper,42.5,HOM-0016,Heavy duty collapsible fabric laundry hamper with metal frame,4.8,1.8,in_stock,2023-06-12
+home,cast iron 12-inch skillet,45.0,HOM-0017,Pre-seasoned 12-inch cast iron skillet with helper handle,4.9,3.6,in_stock,2023-08-23
+home,electric kettle with temperature control,49.99,HOM-0018,1.7L electric kettle with 5 temperature presets and keep-warm function,4.7,1.1,in_stock,2023-12-21
+home,oversized cozy throw blanket,55.0,HOM-0019,Oversized 60x80 inch fleece throw blanket in soft plush fabric,4.8,1.4,in_stock,2023-06-15
+home,bamboo wood cutting board set,62.5,HOM-0020,Set of 3 bamboo cutting boards in small medium and large sizes,4.0,1.85,in_stock,2023-08-15
+home,modern ceramic table lamp,68.0,HOM-0021,Modern ceramic table lamp with linen drum shade and 3-way switch,4.7,2.5,in_stock,2023-08-31
+home,soft egyptian cotton bath towel set,75.0,HOM-0022,Set of 4 Egyptian cotton bath towels in 600gsm weight,4.3,2.0,in_stock,2023-09-04
+home,adjustable memory foam sleeping pillow,82.99,HOM-0023,Adjustable shredded memory foam pillow with removable bamboo cover,4.8,1.5,in_stock,2023-09-19
+home,stainless steel kitchen knife set,89.5,HOM-0024,6-piece stainless steel kitchen knife set with acacia wood block,4.7,2.8,low_stock,2023-07-08
+home,woven cotton area rug 3x5,95.0,HOM-0025,Hand-woven cotton area rug 3x5 feet in geometric pattern,4.8,3.2,in_stock,2023-08-02
+home,compact drip coffee maker,110.0,HOM-0026,12-cup programmable drip coffee maker with thermal carafe,4.7,2.5,in_stock,2023-10-14
+home,tufted round floor cushion,125.0,HOM-0027,Tufted round floor cushion in cotton canvas with carry handle,4.2,1.8,in_stock,2023-09-14
+home,multi-tier shoe storage rack,145.0,HOM-0028,Stackable 4-tier metal shoe rack holding up to 20 pairs,4.7,3.5,in_stock,2023-10-23
+home,wall mounted floating wood shelves,165.0,HOM-0029,Set of 2 wall-mounted floating shelves in solid pine with brackets,4.1,2.2,in_stock,2023-11-22
+home,premium down alternative comforter,189.99,HOM-0030,Queen size down alternative comforter with corner ties and box stitching,4.8,2.8,in_stock,2023-10-24
+home,mid-century modern bedside table,210.0,HOM-0031,Mid-century modern bedside table with tapered legs and drawer,4.8,12.0,in_stock,2023-07-14
+home,tall corner floor lamp,235.0,HOM-0032,Adjustable arc floor lamp with fabric shade and weighted base,4.2,4.5,in_stock,2023-07-15
+home,ergonomic mesh office chair,259.99,HOM-0033,Ergonomic mesh office chair with lumbar support and adjustable armrests,4.6,14.0,low_stock,2023-06-21
+home,solid wood oval coffee table,275.0,HOM-0034,Solid acacia wood oval coffee table with tapered legs,4.1,18.0,in_stock,2023-11-04
+home,heavy duty stand mixer,289.0,HOM-0035,Tilt-head stand mixer with 5-quart bowl and 3 attachments,3.9,10.5,in_stock,2023-09-06
+sports,reflective running wristband,10.5,SPO-0001,Adjustable reflective running wristband with LED light for night visibility,4.7,0.03,in_stock,2023-11-06
+sports,set of 3 resistance bands,12.99,SPO-0002,Set of 3 latex resistance bands in light medium and heavy tension,4.2,0.25,in_stock,2023-11-22
+sports,heavy duty jump rope,14.95,SPO-0003,Weighted speed jump rope with ball-bearing handles for cardio training,4.0,0.3,in_stock,2023-08-01
+sports,quick-dry microfiber gym towel,16.5,SPO-0004,Quick-dry microfiber gym towel with zip pocket and carabiner clip,4.2,0.15,in_stock,2023-10-06
+sports,insulated stainless steel water bottle,18.99,SPO-0005,Double-wall vacuum insulated 750ml stainless steel water bottle,4.3,0.35,in_stock,2023-10-28
+sports,non-slip yoga mat with carrying strap,21.0,SPO-0006,6mm thick non-slip yoga mat with alignment lines and carrying strap,4.8,1.2,in_stock,2023-07-07
+sports,adjustable hand grip strengthener,24.5,SPO-0007,Adjustable hand grip strengthener with counter display 10 to 60kg range,4.9,0.18,in_stock,2023-07-30
+sports,foam roller for muscle massage,28.0,SPO-0008,High-density EVA foam roller 18-inch for deep tissue muscle recovery,4.3,0.55,in_stock,2023-09-27
+sports,textured massage ball set,32.5,SPO-0009,Set of 3 textured massage balls in different firmness levels,4.6,0.4,in_stock,2023-11-11
+sports,compact camping hammock,36.99,SPO-0010,Lightweight parachute nylon camping hammock supporting up to 200kg,4.4,0.65,in_stock,2023-08-05
+sports,lightweight cycling helmet,42.0,SPO-0011,Ventilated cycling helmet with adjustable dial fit and removable visor,4.9,0.3,in_stock,2023-09-26
+sports,indoor pull-up bar,48.5,SPO-0012,Doorframe-mounted pull-up bar with foam grip and no screws required,4.5,1.8,in_stock,2023-08-05
+sports,spacious duffel gym bag,55.0,SPO-0013,Spacious 40L duffel gym bag with shoe compartment and wet pocket,4.8,0.7,in_stock,2023-11-18
+sports,neoprene coated dumbbell set,64.99,SPO-0014,Neoprene coated hex dumbbell set with pairs of 2kg 4kg and 6kg,4.1,12.0,in_stock,2023-06-03
+sports,hydration running backpack,75.0,SPO-0015,Lightweight 10L hydration running backpack with 2L bladder included,4.9,0.45,in_stock,2023-12-23
+sports,collapsible trekking poles,89.5,SPO-0016,Collapsible aluminum trekking poles with cork grips and carbide tips,4.2,0.55,in_stock,2023-09-28
+sports,wearable weighted training vest,115.0,SPO-0017,Adjustable weighted training vest from 5 to 20kg with breathable mesh,4.9,5.5,in_stock,2023-08-13
+sports,aerodynamic road bike saddle,149.99,SPO-0018,Aerodynamic road bike saddle with central pressure relief channel,4.2,0.28,in_stock,2023-11-21
+sports,freestanding heavy punching bag,185.0,SPO-0019,70kg freestanding heavy punching bag with suction cup base,4.1,32.0,in_stock,2023-10-18
+sports,premium pop-up camping tent,225.0,SPO-0020,4-person pop-up camping tent with waterproof flysheet and vestibule,4.4,4.5,in_stock,2023-10-21

@@ -24,14 +24,18 @@ ALTER TABLE customer
 CREATE TABLE product (
     product_id SERIAL NOT NULL,
     product_name VARCHAR(100) NOT NULL,
-    category VARCHAR(100) NOT NULL,
-    price DECIMAL NOT NULL,
+    category VARCHAR(50) NOT NULL,
+    price DECIMAL(10,2) NOT NULL,
+    sku VARCHAR(20) UNIQUE NOT NULL,
+    item_description TEXT,
+    avg_rating DECIMAL(2,1),
+    weight_kg DECIMAL(6,2),
+    stock_status VARCHAR(20) DEFAULT 'in_stock',
     created_at DATE DEFAULT CURRENT_DATE
 );
 
 ALTER TABLE product
     ADD CONSTRAINT product_pk PRIMARY KEY (product_id);
-
 
 /*--------------------*/
 CREATE TABLE orders (

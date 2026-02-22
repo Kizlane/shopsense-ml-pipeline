@@ -14,8 +14,8 @@ START_DATE = "2024-01-01"
 END_DATE = "2025-06-30"
 
 # Volume settings
-NUM_CUSTOMERS = 3000
-NUM_PRODUCTS = 120
+NUM_CUSTOMERS = 10000
+NUM_PRODUCTS = 200
 
 # Customer persona distribution (must sum to 1.0)
 PERSONAS = {

@@ -1,0 +1,18 @@
+
+services:
+  db:
+    image: postgres:15
+    container_name: shopsense-db
+    environment:
+      POSTGRES_USER: shopsense
+      POSTGRES_PASSWORD: shopsense123
+      POSTGRES_DB: shopsense
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./sql/init:/docker-entrypoint-initdb.d
+    restart: unless-stopped
+
+volumes:
+  pgdata:

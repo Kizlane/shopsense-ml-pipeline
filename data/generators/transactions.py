@@ -30,6 +30,7 @@ def get_product_catalogue(db_connection):
         db_connection.rollback()
         print(f"Error: {e}")
     cursor.close()
+    
 conn = psycopg2.connect(**DB_CONFIG)    
 get_product_catalogue(conn)
 
